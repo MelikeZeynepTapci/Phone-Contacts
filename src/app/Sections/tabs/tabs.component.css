@@ -1,0 +1,9 @@
+.table {
+    display: inline-table;
+    width: 80%;
+    float: left;
+}
+
+.nav-link {
+    color: darkred;
+}

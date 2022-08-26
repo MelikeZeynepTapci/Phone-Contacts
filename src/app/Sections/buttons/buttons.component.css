@@ -1,0 +1,11 @@
+.buttons {
+    display: inline;
+    margin-top: 500px;
+
+}
+
+.button {
+    display: flex;
+    align-items: center;
+
+}

@@ -1,0 +1,8 @@
+.table {
+    display: inline-table;
+    float: left;
+}
+
+.nav-link {
+    color: darkred;
+}

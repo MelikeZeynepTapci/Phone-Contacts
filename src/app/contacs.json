@@ -1,0 +1,38 @@
+[
+    {
+        "full-name": "Melike Tapcı",
+        "phone-number": "0505-770-23",
+        "description": "School",
+        "mail": "mtap@outlook.com"
+    },
+    {
+        "full-name": "Ali Yılmaz",
+        "phone-number": "0504-776-54",
+        "description": "Family",
+        "mail": "ayilmaz@outlook.com"
+    },
+    {
+        "full-name": "Veli Güven",
+        "phone-number": "0533-948-93",
+        "description": "Work",
+        "mail": "vguven@gmail.com"
+    },
+    {
+        "full-name": "Melek Taş",
+        "phone-number": "0565-659-90",
+        "description": "School",
+        "mail": "mtas@outlook.com"
+    },
+    {
+        "full-name": "Merve Ak",
+        "phone-number": "0538-598-43",
+        "description": "School",
+        "mail": "mervak@gmail.com"
+    },
+    {
+        "full-name": "Elif Kara",
+        "phone-number": "0345-808-40",
+        "description": "Work",
+        "mail": "ekara@outlook.com"
+    }
+]
